@@ -1,0 +1,8 @@
+**/wafWeb/waf-web/node_modules
+**/wafWeb/node_modules
+**/api/bin
+**/api/obj
+**/api/.vs
+**/test
+**/wafWeb/.vs
+.vscode
